@@ -1,0 +1,83 @@
+C4TB0T Tool License v1.7
+
+Copyright (c) 2026 BL4CKC4T87
+
+Author:  BL4CKC4T87
+Contact: GitHub: github.com/BL4CKC4T87
+         Discord: discord.gg/x4jGSbg2NA
+
+---
+
+Permission is granted to any individual to:
+
+- Use the software freely for personal or public non-commercial purposes
+- View and learn from the source code
+- Modify the software for personal and public non-commercial use
+- Share or redistribute the software freely provided attribution is
+  maintained and it is not sold or included in any paid product or service
+
+---
+
+RESTRICTIONS
+
+You are NOT permitted to:
+
+- Sell this software or include it in any paid product or service
+- Claim this software, or any modified version of it, as your own work
+- Strip, alter, or omit author credit or branding during redistribution
+- Redistribute modified versions without clearly noting the changes made
+
+---
+
+NAMING AND ATTRIBUTION
+
+- The name "C4TB0T" must be retained in all copies, uses, and distributions
+- Executable filename must follow: C4TB0T(<user-variable>).exe
+- The name "C4TB0T" must be visible in the header, splash screen, or primary UI
+- You may not rename, rebrand, or present this software as a different product
+- Original author credit (BL4CKC4T87) must remain attached to the product
+  in at least one of the following: an accompanying document, the user
+  interface, or a linked description page
+
+---
+
+REQUIRED ATTRIBUTION
+
+Any public use, distribution, or presentation must include:
+
+- The name "C4TB0T"
+- Credit to the original author: BL4CKC4T87
+- Contact references:
+    GitHub:  github.com/BL4CKC4T87
+    Discord: discord.gg/x4jGSbg2NA
+
+This attribution must be clearly visible in at least one of:
+- Documentation
+- User interface
+- Description page (e.g. GitHub, Discord, website)
+
+---
+
+DONATIONS
+
+Donations are completely optional and accepted as a gesture of support only.
+
+Donations do not grant:
+- Additional features
+- Early access
+- Preferential treatment
+- Any in-game or server-related advantage
+
+---
+
+DISCLAIMER
+
+This software is provided "as is", without warranty of any kind.
+
+The author is not responsible for any damages, data loss, or issues resulting from the use of this software.
+
+---
+
+For permissions beyond this license, contact the author via:
+  GitHub:  github.com/BL4CKC4T87
+  Discord: discord.gg/x4jGSbg2NA
