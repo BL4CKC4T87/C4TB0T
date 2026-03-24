@@ -1,9 +1,9 @@
 # 🐾 C4TB0T
-C4TB0T Trader Calculator for DayZ Xbox One 1.28
+C4TBØT Trader Calculator for DayZ Xbox One 1.28
 Created and maintained by **BL4CKC4T87**
 
 Trackz ur buys and sells, calculatez ur balances, generatez ur trade invoices.
-Bring C4TB0T catfood plz.
+Bring C4TBØT catfood plz.
 
 This tool is fully free to use. Prices and items are customizable.
 Please read the accompanying LICENSE — this tool may not be bought, sold, or redistributed in any way other than as defined therein.
@@ -15,7 +15,7 @@ Please read the accompanying LICENSE — this tool may not be bought, sold, or r
 Get the latest official build from the Discord community.
 GitHub address is available on the Discord.
 
-- Discord: [BL4CKC4T87](https://discord.gg/x4jGSbg2NA)
+- Discord: [BL4CKC4T87](https://discord.gg/ZBXMeqHrHQ)
 
 > ⚠️ Only download from official links to ensure safety and authenticity.
 
@@ -50,7 +50,7 @@ Provided under the **C4TB0T Tool License v1.7**.
 
 ## 💬 Support & Community
 
-- Discord: [BL4CKC4T87](https://discord.gg/x4jGSbg2NA)
+- Discord: [BL4CKC4T87](https://discord.gg/ZBXMeqHrHQ)
 - GitHub address available on the Discord
 
 ---
