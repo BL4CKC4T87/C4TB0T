@@ -31,9 +31,9 @@ GitHub address is available on the Discord.
 
 ---
 
-## 🐱 Donations
+## 🐱 Support
 
-Completely optional. Donations don't unlock anything — they're simply a way to support this and future projects if you enjoy the tool.
+Completely optional. Support funding does unlock anything — it is simply a way to support this and future projects if you enjoy the tool.
 
 ---
 
@@ -43,7 +43,7 @@ Provided under the **C4TBØT Tool License v1.7**.
 
 - Personal and public non-commercial use permitted with attribution
 - Redistribution allowed — must be free, credited, and unmodified (or clearly noted as modified)
-- The name C4TB0T and author credit must remain attached
+- The name C4TBØT and author credit must remain attached
 - See [LICENSE.txt](LICENSE.txt) for full terms
 
 ---
@@ -68,4 +68,4 @@ C4TBØT is provided "as is." The author is not responsible for any damages, data
 ---
 
 C4TBØT — Created by BL4CKC4T87
-Discord: discord.gg/x4jGSbg2NA
+Discord: https://discord.gg/ZBXMeqHrHQ
