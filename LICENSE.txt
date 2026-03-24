@@ -2,7 +2,7 @@ C4TB0T Tool License v1.7
 Copyright (c) 2026 BL4CKC4T87
 
 Author:  BL4CKC4T87
-Contact: discord.gg/x4jGSbg2NA
+Contact: https://discord.gg/ZBXMeqHrHQ
          github.com/BL4CKC4T87
 
 ---
@@ -56,5 +56,5 @@ is not responsible for any damages, data loss, or issues arising from use.
 ---
 
 For permissions beyond this license:
-discord.gg/x4jGSbg2NA
+https://discord.gg/ZBXMeqHrHQ
 github.com/BL4CKC4T87
