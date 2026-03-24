@@ -1,4 +1,4 @@
-# 🐾 C4TB0T
+# 🐾 C4TBØT
 C4TBØT Trader Calculator for DayZ Xbox One 1.28
 Created and maintained by **BL4CKC4T87**
 
@@ -39,7 +39,7 @@ Completely optional. Donations don't unlock anything — they're simply a way to
 
 ## 📜 License & Attribution
 
-Provided under the **C4TB0T Tool License v1.7**.
+Provided under the **C4TBØT Tool License v1.7**.
 
 - Personal and public non-commercial use permitted with attribution
 - Redistribution allowed — must be free, credited, and unmodified (or clearly noted as modified)
@@ -63,9 +63,9 @@ Some HTML and formatting contributions were assisted by **Claude AI**.
 
 ## ⚠️ Disclaimer
 
-C4TB0T is provided "as is." The author is not responsible for any damages, data loss, or issues resulting from its use.
+C4TBØT is provided "as is." The author is not responsible for any damages, data loss, or issues resulting from its use.
 
 ---
 
-C4TB0T — Created by BL4CKC4T87
+C4TBØT — Created by BL4CKC4T87
 Discord: discord.gg/x4jGSbg2NA
