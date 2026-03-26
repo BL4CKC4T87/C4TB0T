@@ -1,4 +1,4 @@
-C4TBØT Tool License v1.7
+C4TB0T Tool License v1.7
 Copyright (c) 2026 BL4CKC4T87
 
 Author:  BL4CKC4T87
@@ -32,8 +32,8 @@ You are NOT permitted to:
 
 NAMING & ATTRIBUTION
 
-- The name "C4TBØT" must be retained in all copies and distributions
-- "C4TBØT" must remain visible in the UI or header
+- The name "C4TB0T" must be retained in all copies and distributions
+- "C4TB0T" must remain visible in the UI or header
 - You may not rename, rebrand, or present this as a different product
 - Credit to the original author (BL4CKC4T87) must remain attached
   in at least one of: an accompanying document, the UI, or a linked
